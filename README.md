@@ -3,6 +3,7 @@
 # RTEMS Visualization & Scheduling Tutorials
 > **University of Freiburg** | Team Betriebssysteme 2026
 
+This lab has been done as research-based work on RTEMS under the supervision of Dr. Tobias Seufert.  
 This repository contains a series of lab tutorials designed to explore Real-Time Operating Systems (RTOS) using RTEMS on the ERC32 simulator.
 
 The repository [repo](/Pre-built_Rtems_Toolsuite_BSP) Pre-built_Rtems_Toolsuite_BSP  contains all the examples used in this tutorial. Each example includes a compiled app.exe, so the applications can be executed directly.
