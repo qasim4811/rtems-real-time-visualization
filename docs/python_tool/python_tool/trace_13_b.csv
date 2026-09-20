@@ -1,0 +1,100 @@
+Timestamp	Channel	CPU	Event type	Contents	TID	Prio	PID	Source
+01:00:00.999 186 000	stream_0	0	PER_CPU_COUNT	data=0x10000, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	FREQUENCY	data=0xf4240, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	ARCH	data=0x52415053, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	ARCH	data=0x43, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	MULTILIB	data=0x50462f77, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	MULTILIB	data=0x55, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	BSP	data=0x33637265, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	BSP	data=0x32, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	VERSION_CONTROL_KEY	data=0x2d746f6e, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	VERSION_CONTROL_KEY	data=0x656c6572, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	VERSION_CONTROL_KEY	data=0x64657361, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x332e3331, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x3220302e, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x30343230, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x20313235, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x45545228, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x3620534d, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x5352202c, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x6f6e2042, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x7065722d, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x4e202c6f, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x696c7765, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x62312062, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x66636433, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 186 000	stream_0	0	TOOLS	data=0x2964, context.packet_seq_num=0, context.cpu_id=0				
+01:00:00.999 279 999	stream_0	0	THREAD_START	data=0x9010001, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.000 502 999	stream_0	0	UPTIME_LOW	data=0x20f6f0, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.000 502 999	stream_0	0	UPTIME_HIGH	data=0x1, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.194 210 999	stream_0	0	THREAD_START	data=0xa010001, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.194 854 999	stream_0	0	THREAD_BEGIN	data=0xa010001, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 145 999	stream_0	0	THREAD_START	data=0xa010002, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 259 999	stream_0	0	THREAD_START	data=0xa010003, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 379 999	stream_0	0	THREAD_START	data=0xa010004, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 485 999	stream_0	0	THREAD_TERMINATE	data=0xa010001, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 602 999	stream_0	0	THREAD_STACK_CURRENT	data=0xc38, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 602 999	stream_0	0	sched_switch	prev_comm="UI1 ", prev_tid=167837697, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0				
+01:00:01.196 666 999	stream_0	0	THREAD_BEGIN	data=0xa010002, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.197 058 999	stream_0	0	USER_0	data=0x0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.197 155 999	stream_0	0	THREAD_STACK_CURRENT	data=0xcb8, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.197 155 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.197 220 999	stream_0	0	THREAD_BEGIN	data=0xa010003, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.197 512 999	stream_0	0	USER_1	data=0x0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.197 615 999	stream_0	0	THREAD_STACK_CURRENT	data=0xcb8, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.197 615 999	stream_0	0	sched_switch	prev_comm="TB  ", prev_tid=167837699, prev_prio=0, prev_state=0, next_comm="TC  ", next_tid=167837700, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.197 679 999	stream_0	0	THREAD_BEGIN	data=0xa010004, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.198 068 999	stream_0	0	USER_2	data=0x0, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.198 227 999	stream_0	0	THREAD_STACK_CURRENT	data=0xc40, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.198 227 999	stream_0	0	sched_switch	prev_comm="TC  ", prev_tid=167837700, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.218 255 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.218 255 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.337 430 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.337 430 999	stream_0	0	sched_switch	prev_comm="TB  ", prev_tid=167837699, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.337 539 999	stream_0	0	USER_0	data=0x1, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.357 652 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.357 652 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TC  ", next_tid=167837700, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.377 683 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.377 683 999	stream_0	0	sched_switch	prev_comm="TC  ", prev_tid=167837700, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.377 794 999	stream_0	0	USER_1	data=0x1, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.396 125 999	stream_0	0	THREAD_STACK_CURRENT	data=0xc90, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.396 125 999	stream_0	0	sched_switch	prev_comm="TB  ", prev_tid=167837699, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.396 229 999	stream_0	0	USER_0	data=0x2, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.416 344 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.416 344 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.517 526 999	stream_0	0	THREAD_STACK_CURRENT	data=0xcb0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.517 526 999	stream_0	0	sched_switch	prev_comm="TB  ", prev_tid=167837699, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.517 642 999	stream_0	0	USER_0	data=0x3, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.537 616 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.537 616 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TC  ", next_tid=167837700, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.537 727 999	stream_0	0	USER_2	data=0x1, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.557 698 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.557 698 999	stream_0	0	sched_switch	prev_comm="TC  ", prev_tid=167837700, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.557 814 999	stream_0	0	USER_4	data=0x2, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.558 849 999	stream_0	0	USER_1	data=0x2, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.678 271 999	stream_0	0	THREAD_STACK_CURRENT	data=0xcb0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.678 271 999	stream_0	0	sched_switch	prev_comm="TB  ", prev_tid=167837699, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.678 387 999	stream_0	0	USER_0	data=0x4, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.698 440 999	stream_0	0	USER_3	data=0x5, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.699 274 999	stream_0	0	USER_0	data=0x5, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.719 241 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.719 241 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TC  ", next_tid=167837700, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.719 351 999	stream_0	0	USER_2	data=0x2, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.739 321 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.739 321 999	stream_0	0	sched_switch	prev_comm="TC  ", prev_tid=167837700, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837700	0	167837700	
+01:00:01.739 437 999	stream_0	0	USER_4	data=0x3, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.740 278 999	stream_0	0	USER_1	data=0x3, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.859 622 999	stream_0	0	THREAD_STACK_CURRENT	data=0xcb0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.859 622 999	stream_0	0	sched_switch	prev_comm="TB  ", prev_tid=167837699, prev_prio=0, prev_state=0, next_comm="TA  ", next_tid=167837698, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.859 738 999	stream_0	0	USER_0	data=0x6, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.879 705 999	stream_0	0	THREAD_STACK_CURRENT	data=0xd38, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.879 705 999	stream_0	0	sched_switch	prev_comm="TA  ", prev_tid=167837698, prev_prio=0, prev_state=0, next_comm="TB  ", next_tid=167837699, next_prio=0, context.packet_seq_num=0, context.cpu_id=0	167837698	0	167837698	
+01:00:01.879 820 999	stream_0	0	USER_4	data=0x4, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.880 618 999	stream_0	0	USER_1	data=0x4, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	UPTIME_LOW	data=0xb361565b, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	TIME_ADJUSTMENT	data=0x31be09bc, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	UPTIME_HIGH	data=0x1, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	TIME_ADJUSTMENT	data=0x31bd72be, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	FATAL_SOURCE	data=0x1, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	TIME_ADJUSTMENT	data=0x31bd72be, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
+01:00:01.895 009 999	stream_0	0	FATAL_CODE	data=0xdeadbeef, context.packet_seq_num=0, context.cpu_id=0	167837699	0	167837699	
